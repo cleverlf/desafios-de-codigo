@@ -1,0 +1,8 @@
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\bin\Debug\DesafiosDeCodigo.exe.config
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\bin\Debug\DesafiosDeCodigo.exe
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\bin\Debug\DesafiosDeCodigo.pdb
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\obj\Debug\DesafiosDeCodigo.csproj.AssemblyReference.cache
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\obj\Debug\DesafiosDeCodigo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\obj\Debug\DesafiosDeCodigo.csproj.CoreCompileInputs.cache
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\obj\Debug\DesafiosDeCodigo.exe
+C:\Users\Desk\source\repos\SolucaoDeProblemas\DesafiosDeCodigo\obj\Debug\DesafiosDeCodigo.pdb
